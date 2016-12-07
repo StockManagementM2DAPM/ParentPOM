@@ -63,10 +63,10 @@
 
     </developers>
 
-    <!--<scm>-->
-        <!--<connection>scm:git:git@github.com:emmanuelbruno/javatest.git</connection>-->
-        <!--<url>https://github.com/emmanuelbruno/javatest</url>-->
-    <!--</scm>-->
+    <scm>
+        <connection>scm:git:git@github.com:StockManagementM2DAPM/ParentPOM.git</connection>
+        <url>https://github.com/StockManagementM2DAPM/ParentPOM</url>
+    </scm>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
